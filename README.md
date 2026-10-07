@@ -15,7 +15,10 @@ Proyecto universitario de **Diseño y Programación**. Modela en Java el caso Me
 
 ## Diagrama UML
 
-El diagrama de clases se hizo en Visual Paradigm y está en [`docs/diagrama-mediHome.png`](docs/diagrama-mediHome.png).
+El diagrama de clases se hizo en Visual Paradigm (versión en línea).
+
+- Imagen: [`docs/diagrama-mediHome.png`](docs/diagrama-mediHome.png)
+- Fuente: [`docs/diagrama-mediHome.puml`](docs/diagrama-mediHome.puml), el mismo diagrama en formato PlantUML con todas las clases, atributos, métodos, relaciones y multiplicidades. Se puede abrir y editar en [plantuml.com](https://www.plantuml.com/plantuml) o en VS Code.
 
 ![Diagrama de clases MediHome](docs/diagrama-mediHome.png)
 
